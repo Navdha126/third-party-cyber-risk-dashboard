@@ -1,0 +1,151 @@
+Vendor_ID,Vendor_Name,Vendor_Category,Business_Unit,Data_Sensitivity,Business_Criticality,ISO27001_Certified,MFA_Enabled,Days_Since_Assessment,Open_Findings,Overdue_Findings,Criticality_Score,Sensitivity_Score,ISO_Risk_Score,MFA_Risk_Score,Open_Findings_Score,Overdue_Findings_Score,Assessment_Age_Score,Risk_Score,Risk_Level
+V001,Vendor 001,Marketing,Customer Support,Low,High,Yes,Yes,67,3,0,20,5,0,0,7.5,0.0,0,32.5,Low
+V002,Vendor 002,IT Support,Technology,Low,Low,Yes,Yes,302,1,1,5,5,0,0,2.5,2.5,5,20.0,Low
+V003,Vendor 003,IT Support,Technology,Medium,High,Yes,No,372,2,1,20,12,0,10,5.0,2.5,10,59.5,Medium
+V004,Vendor 004,Software,Finance,High,Medium,Yes,Yes,448,2,1,12,20,0,0,5.0,2.5,10,49.5,Medium
+V005,Vendor 005,Marketing,Operations,Medium,Low,No,Yes,165,4,4,5,12,10,0,10.0,10.0,0,47.0,Medium
+V006,Vendor 006,Logistics,Technology,Low,Low,Yes,Yes,519,0,0,5,5,0,0,0.0,0.0,10,20.0,Low
+V007,Vendor 007,Data Analytics,Operations,Low,Low,Yes,Yes,204,2,2,5,5,0,0,5.0,5.0,5,25.0,Low
+V008,Vendor 008,Marketing,Marketing,High,Medium,Yes,Yes,388,1,1,12,20,0,0,2.5,2.5,10,47.0,Medium
+V009,Vendor 009,Payment Processing,Technology,High,Medium,Yes,Yes,446,4,0,12,20,0,0,10.0,0.0,10,52.0,Medium
+V010,Vendor 010,Data Analytics,Technology,Low,Medium,Yes,Yes,497,3,2,12,5,0,0,7.5,5.0,10,39.5,Low
+V011,Vendor 011,Marketing,Customer Support,Medium,High,Yes,Yes,86,1,1,20,12,0,0,2.5,2.5,0,37.0,Low
+V012,Vendor 012,IT Support,Finance,High,Medium,Yes,No,275,3,0,12,20,0,10,7.5,0.0,5,54.5,Medium
+V013,Vendor 013,Software,Customer Support,Medium,High,Yes,Yes,210,3,3,20,12,0,0,7.5,7.5,5,52.0,Medium
+V014,Vendor 014,Payment Processing,Operations,High,High,Yes,Yes,364,5,2,20,20,0,0,12.5,5.0,5,62.5,Medium
+V015,Vendor 015,Cloud Services,Technology,Low,Low,Yes,Yes,383,2,2,5,5,0,0,5.0,5.0,10,30.0,Low
+V016,Vendor 016,Logistics,Technology,High,High,Yes,Yes,326,1,1,20,20,0,0,2.5,2.5,5,50.0,Medium
+V017,Vendor 017,Logistics,Operations,High,High,No,Yes,265,0,0,20,20,10,0,0.0,0.0,5,55.0,Medium
+V018,Vendor 018,Data Analytics,Marketing,High,Low,Yes,Yes,55,0,0,5,20,0,0,0.0,0.0,0,25.0,Low
+V019,Vendor 019,Data Analytics,Operations,Low,High,No,Yes,258,5,1,20,5,10,0,12.5,2.5,5,55.0,Medium
+V020,Vendor 020,Logistics,Marketing,High,Medium,Yes,Yes,388,4,2,12,20,0,0,10.0,5.0,10,57.0,Medium
+V021,Vendor 021,Marketing,Finance,Medium,Medium,Yes,Yes,130,0,0,12,12,0,0,0.0,0.0,0,24.0,Low
+V022,Vendor 022,Logistics,Operations,Medium,Medium,Yes,Yes,45,1,0,12,12,0,0,2.5,0.0,0,26.5,Low
+V023,Vendor 023,Cloud Services,Customer Support,Medium,Low,Yes,Yes,385,5,4,5,12,0,0,12.5,10.0,10,49.5,Medium
+V024,Vendor 024,IT Support,Marketing,Low,Medium,Yes,Yes,352,2,1,12,5,0,0,5.0,2.5,5,29.5,Low
+V025,Vendor 025,IT Support,Finance,High,Low,Yes,Yes,46,2,1,5,20,0,0,5.0,2.5,0,32.5,Low
+V026,Vendor 026,Software,Marketing,Low,Medium,Yes,Yes,251,1,0,12,5,0,0,2.5,0.0,5,24.5,Low
+V027,Vendor 027,Data Analytics,Finance,High,Medium,Yes,No,443,0,0,12,20,0,10,0.0,0.0,10,52.0,Medium
+V028,Vendor 028,Data Analytics,Marketing,High,Low,Yes,Yes,220,5,1,5,20,0,0,12.5,2.5,5,45.0,Medium
+V029,Vendor 029,Cloud Services,Marketing,High,Low,No,Yes,231,4,4,5,20,10,0,10.0,10.0,5,60.0,Medium
+V030,Vendor 030,Software,Finance,Low,Low,Yes,Yes,46,4,0,5,5,0,0,10.0,0.0,0,20.0,Low
+V031,Vendor 031,Logistics,Technology,Medium,High,Yes,Yes,275,0,0,20,12,0,0,0.0,0.0,5,37.0,Low
+V032,Vendor 032,Cloud Services,Customer Support,Medium,Medium,Yes,Yes,470,3,0,12,12,0,0,7.5,0.0,10,41.5,Medium
+V033,Vendor 033,Cloud Services,Technology,Medium,Medium,Yes,No,119,3,2,12,12,0,10,7.5,5.0,0,46.5,Medium
+V034,Vendor 034,Payment Processing,Marketing,Medium,Medium,Yes,Yes,399,5,0,12,12,0,0,12.5,0.0,10,46.5,Medium
+V035,Vendor 035,Logistics,Finance,High,High,Yes,Yes,150,1,1,20,20,0,0,2.5,2.5,0,45.0,Medium
+V036,Vendor 036,Software,Customer Support,Medium,Low,No,Yes,328,6,6,5,12,10,0,15.0,15.0,5,62.0,Medium
+V037,Vendor 037,Cloud Services,Finance,Medium,Medium,No,Yes,464,1,0,12,12,10,0,2.5,0.0,10,46.5,Medium
+V038,Vendor 038,Marketing,Customer Support,Medium,Low,Yes,Yes,119,4,2,5,12,0,0,10.0,5.0,0,32.0,Low
+V039,Vendor 039,IT Support,Operations,Low,High,Yes,Yes,439,2,0,20,5,0,0,5.0,0.0,10,40.0,Medium
+V040,Vendor 040,Data Analytics,Finance,Low,High,Yes,Yes,376,2,0,20,5,0,0,5.0,0.0,10,40.0,Medium
+V041,Vendor 041,Cloud Services,Marketing,High,Medium,Yes,Yes,204,3,1,12,20,0,0,7.5,2.5,5,47.0,Medium
+V042,Vendor 042,Software,Technology,Low,Medium,No,No,35,5,1,12,5,10,10,12.5,2.5,0,52.0,Medium
+V043,Vendor 043,Marketing,Technology,Low,High,No,Yes,332,4,1,20,5,10,0,10.0,2.5,5,52.5,Medium
+V044,Vendor 044,Data Analytics,Technology,High,High,Yes,Yes,185,4,3,20,20,0,0,10.0,7.5,5,62.5,Medium
+V045,Vendor 045,Payment Processing,Operations,Low,High,Yes,Yes,255,1,1,20,5,0,0,2.5,2.5,5,35.0,Low
+V046,Vendor 046,Payment Processing,Operations,High,High,Yes,Yes,219,2,0,20,20,0,0,5.0,0.0,5,50.0,Medium
+V047,Vendor 047,Payment Processing,Operations,Medium,Medium,No,Yes,495,0,0,12,12,10,0,0.0,0.0,10,44.0,Medium
+V048,Vendor 048,Software,Marketing,Medium,High,Yes,Yes,191,4,2,20,12,0,0,10.0,5.0,5,52.0,Medium
+V049,Vendor 049,Logistics,Customer Support,High,Low,No,Yes,37,4,0,5,20,10,0,10.0,0.0,0,45.0,Medium
+V050,Vendor 050,Data Analytics,Operations,Medium,High,No,Yes,201,2,2,20,12,10,0,5.0,5.0,5,57.0,Medium
+V051,Vendor 051,Logistics,Marketing,Medium,High,No,Yes,173,3,2,20,12,10,0,7.5,5.0,0,54.5,Medium
+V052,Vendor 052,Marketing,Customer Support,Low,Low,Yes,No,361,4,1,5,5,0,10,10.0,2.5,5,37.5,Low
+V053,Vendor 053,Logistics,Operations,Medium,Medium,Yes,Yes,235,4,4,12,12,0,0,10.0,10.0,5,49.0,Medium
+V054,Vendor 054,IT Support,Finance,Medium,Medium,Yes,Yes,506,4,1,12,12,0,0,10.0,2.5,10,46.5,Medium
+V055,Vendor 055,Payment Processing,Technology,Medium,Medium,Yes,No,399,1,1,12,12,0,10,2.5,2.5,10,49.0,Medium
+V056,Vendor 056,Data Analytics,Marketing,Low,Low,Yes,Yes,450,4,3,5,5,0,0,10.0,7.5,10,37.5,Low
+V057,Vendor 057,Marketing,Finance,Medium,High,Yes,Yes,90,3,0,20,12,0,0,7.5,0.0,0,39.5,Low
+V058,Vendor 058,Data Analytics,Marketing,Medium,Low,No,Yes,40,3,0,5,12,10,0,7.5,0.0,0,34.5,Low
+V059,Vendor 059,Software,Customer Support,High,Medium,No,Yes,501,4,3,12,20,10,0,10.0,7.5,10,69.5,Medium
+V060,Vendor 060,Data Analytics,Marketing,High,Medium,No,Yes,474,1,1,12,20,10,0,2.5,2.5,10,57.0,Medium
+V061,Vendor 061,Payment Processing,Marketing,High,High,Yes,Yes,263,3,2,20,20,0,0,7.5,5.0,5,57.5,Medium
+V062,Vendor 062,Cloud Services,Marketing,High,Low,Yes,No,56,1,0,5,20,0,10,2.5,0.0,0,37.5,Low
+V063,Vendor 063,Marketing,Marketing,Low,Low,Yes,Yes,253,2,0,5,5,0,0,5.0,0.0,5,20.0,Low
+V064,Vendor 064,IT Support,Finance,High,Medium,Yes,No,406,3,3,12,20,0,10,7.5,7.5,10,67.0,Medium
+V065,Vendor 065,Payment Processing,Customer Support,Low,Medium,No,No,290,4,4,12,5,10,10,10.0,10.0,5,62.0,Medium
+V066,Vendor 066,Software,Technology,Medium,Low,Yes,Yes,357,3,3,5,12,0,0,7.5,7.5,5,37.0,Low
+V067,Vendor 067,Data Analytics,Finance,Medium,Low,Yes,Yes,216,3,0,5,12,0,0,7.5,0.0,5,29.5,Low
+V068,Vendor 068,Marketing,Operations,Medium,High,Yes,Yes,182,1,1,20,12,0,0,2.5,2.5,5,42.0,Medium
+V069,Vendor 069,Data Analytics,Finance,High,Low,No,Yes,442,0,0,5,20,10,0,0.0,0.0,10,45.0,Medium
+V070,Vendor 070,Marketing,Finance,Medium,High,Yes,Yes,414,6,0,20,12,0,0,15.0,0.0,10,57.0,Medium
+V071,Vendor 071,Software,Marketing,Low,Low,Yes,Yes,357,1,0,5,5,0,0,2.5,0.0,5,17.5,Low
+V072,Vendor 072,Marketing,Operations,Low,Medium,Yes,No,382,1,0,12,5,0,10,2.5,0.0,10,39.5,Low
+V073,Vendor 073,Cloud Services,Technology,Medium,High,Yes,No,207,2,2,20,12,0,10,5.0,5.0,5,57.0,Medium
+V074,Vendor 074,Cloud Services,Finance,Medium,High,Yes,Yes,169,5,4,20,12,0,0,12.5,10.0,0,54.5,Medium
+V075,Vendor 075,Data Analytics,Operations,High,High,Yes,Yes,204,0,0,20,20,0,0,0.0,0.0,5,45.0,Medium
+V076,Vendor 076,Cloud Services,Technology,High,High,Yes,No,340,5,3,20,20,0,10,12.5,7.5,5,75.0,High
+V077,Vendor 077,IT Support,Marketing,Low,Medium,Yes,Yes,485,3,3,12,5,0,0,7.5,7.5,10,42.0,Medium
+V078,Vendor 078,IT Support,Marketing,High,Medium,Yes,Yes,493,0,0,12,20,0,0,0.0,0.0,10,42.0,Medium
+V079,Vendor 079,Software,Marketing,High,Medium,Yes,Yes,268,5,1,12,20,0,0,12.5,2.5,5,52.0,Medium
+V080,Vendor 080,Software,Customer Support,Medium,Low,Yes,Yes,465,2,0,5,12,0,0,5.0,0.0,10,32.0,Low
+V081,Vendor 081,Software,Marketing,Low,High,Yes,Yes,368,3,3,20,5,0,0,7.5,7.5,10,50.0,Medium
+V082,Vendor 082,Data Analytics,Customer Support,Low,Low,Yes,Yes,354,3,3,5,5,0,0,7.5,7.5,5,30.0,Low
+V083,Vendor 083,Logistics,Technology,Medium,High,Yes,Yes,247,2,1,20,12,0,0,5.0,2.5,5,44.5,Medium
+V084,Vendor 084,Cloud Services,Marketing,High,Medium,No,No,368,1,0,12,20,10,10,2.5,0.0,10,64.5,Medium
+V085,Vendor 085,Payment Processing,Technology,High,High,Yes,Yes,66,4,2,20,20,0,0,10.0,5.0,0,55.0,Medium
+V086,Vendor 086,Payment Processing,Operations,Low,Low,Yes,Yes,513,0,0,5,5,0,0,0.0,0.0,10,20.0,Low
+V087,Vendor 087,Marketing,Marketing,High,Medium,No,Yes,21,3,3,12,20,10,0,7.5,7.5,0,57.0,Medium
+V088,Vendor 088,IT Support,Marketing,Medium,High,Yes,No,73,4,3,20,12,0,10,10.0,7.5,0,59.5,Medium
+V089,Vendor 089,Cloud Services,Finance,Medium,Medium,Yes,No,500,2,0,12,12,0,10,5.0,0.0,10,49.0,Medium
+V090,Vendor 090,Logistics,Operations,High,Medium,No,Yes,282,2,1,12,20,10,0,5.0,2.5,5,54.5,Medium
+V091,Vendor 091,Data Analytics,Technology,Medium,Medium,Yes,Yes,506,4,1,12,12,0,0,10.0,2.5,10,46.5,Medium
+V092,Vendor 092,Payment Processing,Customer Support,Medium,Low,Yes,Yes,16,2,2,5,12,0,0,5.0,5.0,0,27.0,Low
+V093,Vendor 093,IT Support,Technology,Low,Low,No,Yes,247,0,0,5,5,10,0,0.0,0.0,5,25.0,Low
+V094,Vendor 094,Payment Processing,Technology,High,Medium,Yes,No,232,1,0,12,20,0,10,2.5,0.0,5,49.5,Medium
+V095,Vendor 095,Payment Processing,Marketing,High,Low,Yes,Yes,398,4,2,5,20,0,0,10.0,5.0,10,50.0,Medium
+V096,Vendor 096,Cloud Services,Customer Support,Medium,Medium,Yes,Yes,291,3,0,12,12,0,0,7.5,0.0,5,36.5,Low
+V097,Vendor 097,Cloud Services,Customer Support,High,High,Yes,Yes,132,6,6,20,20,0,0,15.0,15.0,0,70.0,High
+V098,Vendor 098,Logistics,Marketing,High,High,Yes,Yes,35,4,1,20,20,0,0,10.0,2.5,0,52.5,Medium
+V099,Vendor 099,Logistics,Marketing,Medium,High,Yes,Yes,340,4,0,20,12,0,0,10.0,0.0,5,47.0,Medium
+V100,Vendor 100,Payment Processing,Marketing,Medium,Medium,Yes,Yes,225,4,2,12,12,0,0,10.0,5.0,5,44.0,Medium
+V101,Vendor 101,Data Analytics,Customer Support,High,Low,Yes,Yes,74,6,3,5,20,0,0,15.0,7.5,0,47.5,Medium
+V102,Vendor 102,Data Analytics,Marketing,High,Medium,Yes,Yes,111,3,3,12,20,0,0,7.5,7.5,0,47.0,Medium
+V103,Vendor 103,Data Analytics,Finance,Low,Low,Yes,Yes,465,4,0,5,5,0,0,10.0,0.0,10,30.0,Low
+V104,Vendor 104,Marketing,Finance,Medium,Low,Yes,Yes,297,2,0,5,12,0,0,5.0,0.0,5,27.0,Low
+V105,Vendor 105,IT Support,Marketing,High,Medium,Yes,No,164,3,2,12,20,0,10,7.5,5.0,0,54.5,Medium
+V106,Vendor 106,Data Analytics,Technology,Medium,Medium,Yes,Yes,112,5,4,12,12,0,0,12.5,10.0,0,46.5,Medium
+V107,Vendor 107,Data Analytics,Operations,Low,High,No,Yes,418,3,0,20,5,10,0,7.5,0.0,10,52.5,Medium
+V108,Vendor 108,Marketing,Operations,Low,Medium,No,Yes,91,2,1,12,5,10,0,5.0,2.5,0,34.5,Low
+V109,Vendor 109,Payment Processing,Customer Support,Medium,Medium,Yes,Yes,111,6,1,12,12,0,0,15.0,2.5,0,41.5,Medium
+V110,Vendor 110,IT Support,Marketing,Low,High,Yes,Yes,376,5,3,20,5,0,0,12.5,7.5,10,55.0,Medium
+V111,Vendor 111,Marketing,Finance,High,Medium,Yes,No,79,3,2,12,20,0,10,7.5,5.0,0,54.5,Medium
+V112,Vendor 112,Data Analytics,Technology,High,Low,No,Yes,88,2,2,5,20,10,0,5.0,5.0,0,45.0,Medium
+V113,Vendor 113,Cloud Services,Operations,Medium,High,Yes,Yes,347,0,0,20,12,0,0,0.0,0.0,5,37.0,Low
+V114,Vendor 114,Data Analytics,Finance,Medium,Medium,No,Yes,469,4,4,12,12,10,0,10.0,10.0,10,64.0,Medium
+V115,Vendor 115,Logistics,Finance,Low,Medium,No,No,397,0,0,12,5,10,10,0.0,0.0,10,47.0,Medium
+V116,Vendor 116,Data Analytics,Operations,Medium,High,Yes,Yes,477,0,0,20,12,0,0,0.0,0.0,10,42.0,Medium
+V117,Vendor 117,Data Analytics,Technology,Low,Medium,Yes,Yes,225,3,1,12,5,0,0,7.5,2.5,5,32.0,Low
+V118,Vendor 118,Software,Marketing,Low,High,Yes,Yes,482,3,1,20,5,0,0,7.5,2.5,10,45.0,Medium
+V119,Vendor 119,Marketing,Technology,Low,Low,Yes,No,476,2,2,5,5,0,10,5.0,5.0,10,40.0,Medium
+V120,Vendor 120,Cloud Services,Operations,Medium,Medium,Yes,Yes,232,4,3,12,12,0,0,10.0,7.5,5,46.5,Medium
+V121,Vendor 121,Software,Finance,High,High,Yes,Yes,198,3,2,20,20,0,0,7.5,5.0,5,57.5,Medium
+V122,Vendor 122,Data Analytics,Marketing,Medium,Low,Yes,Yes,396,6,4,5,12,0,0,15.0,10.0,10,52.0,Medium
+V123,Vendor 123,Data Analytics,Customer Support,High,Low,No,Yes,195,1,0,5,20,10,0,2.5,0.0,5,42.5,Medium
+V124,Vendor 124,Payment Processing,Finance,Medium,High,Yes,No,336,0,0,20,12,0,10,0.0,0.0,5,47.0,Medium
+V125,Vendor 125,Payment Processing,Marketing,High,Low,Yes,Yes,480,2,2,5,20,0,0,5.0,5.0,10,45.0,Medium
+V126,Vendor 126,Software,Operations,Low,High,No,Yes,271,5,1,20,5,10,0,12.5,2.5,5,55.0,Medium
+V127,Vendor 127,Data Analytics,Technology,High,High,Yes,No,426,1,0,20,20,0,10,2.5,0.0,10,62.5,Medium
+V128,Vendor 128,Data Analytics,Operations,High,High,No,No,510,5,4,20,20,10,10,12.5,10.0,10,92.5,High
+V129,Vendor 129,Cloud Services,Customer Support,High,Low,Yes,Yes,359,4,2,5,20,0,0,10.0,5.0,5,45.0,Medium
+V130,Vendor 130,IT Support,Customer Support,High,High,Yes,Yes,27,3,2,20,20,0,0,7.5,5.0,0,52.5,Medium
+V131,Vendor 131,Software,Finance,Medium,Medium,Yes,Yes,347,2,0,12,12,0,0,5.0,0.0,5,34.0,Low
+V132,Vendor 132,Cloud Services,Customer Support,Medium,Medium,Yes,No,84,2,1,12,12,0,10,5.0,2.5,0,41.5,Medium
+V133,Vendor 133,IT Support,Operations,Medium,High,No,Yes,441,3,3,20,12,10,0,7.5,7.5,10,67.0,Medium
+V134,Vendor 134,Cloud Services,Operations,Medium,Low,Yes,Yes,200,0,0,5,12,0,0,0.0,0.0,5,22.0,Low
+V135,Vendor 135,Logistics,Finance,High,Medium,Yes,Yes,510,1,1,12,20,0,0,2.5,2.5,10,47.0,Medium
+V136,Vendor 136,Marketing,Customer Support,Low,Medium,No,Yes,185,1,0,12,5,10,0,2.5,0.0,5,34.5,Low
+V137,Vendor 137,Software,Customer Support,Low,High,Yes,Yes,460,1,0,20,5,0,0,2.5,0.0,10,37.5,Low
+V138,Vendor 138,Cloud Services,Technology,Low,High,No,Yes,423,1,0,20,5,10,0,2.5,0.0,10,47.5,Medium
+V139,Vendor 139,Cloud Services,Marketing,Medium,High,Yes,Yes,150,0,0,20,12,0,0,0.0,0.0,0,32.0,Low
+V140,Vendor 140,Logistics,Customer Support,Low,Low,Yes,Yes,318,1,0,5,5,0,0,2.5,0.0,5,17.5,Low
+V141,Vendor 141,Cloud Services,Marketing,High,High,Yes,Yes,344,6,0,20,20,0,0,15.0,0.0,5,60.0,Medium
+V142,Vendor 142,Data Analytics,Customer Support,Medium,Medium,Yes,No,52,5,2,12,12,0,10,12.5,5.0,0,51.5,Medium
+V143,Vendor 143,Software,Customer Support,Low,Low,Yes,Yes,181,2,2,5,5,0,0,5.0,5.0,5,25.0,Low
+V144,Vendor 144,Payment Processing,Marketing,Medium,Medium,Yes,Yes,451,3,1,12,12,0,0,7.5,2.5,10,44.0,Medium
+V145,Vendor 145,IT Support,Marketing,High,Medium,No,Yes,388,0,0,12,20,10,0,0.0,0.0,10,52.0,Medium
+V146,Vendor 146,Payment Processing,Finance,Medium,Medium,Yes,No,49,0,0,12,12,0,10,0.0,0.0,0,34.0,Low
+V147,Vendor 147,Cloud Services,Finance,Medium,High,Yes,Yes,45,3,2,20,12,0,0,7.5,5.0,0,44.5,Medium
+V148,Vendor 148,IT Support,Operations,Medium,Medium,No,No,384,0,0,12,12,10,10,0.0,0.0,10,54.0,Medium
+V149,Vendor 149,Logistics,Operations,Medium,Low,Yes,Yes,261,1,0,5,12,0,0,2.5,0.0,5,24.5,Low
+V150,Vendor 150,Data Analytics,Customer Support,Medium,Low,Yes,Yes,234,5,4,5,12,0,0,12.5,10.0,5,44.5,Medium
