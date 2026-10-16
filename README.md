@@ -28,6 +28,13 @@ All vendor records are synthetic and intended for demonstration
 purposes only. They do not represent real organisations or
 actual cybersecurity assessments.
 
+
+## Dashboard Preview
+
+![Third-Party Cyber Risk Analytics Dashboard](<img width="1398" height="786" alt="Screenshot 2026-10-17 020419" src="https://github.com/user-attachments/assets/029d7f59-8d05-4d77-9e3f-0abe3334ccf5" />
+)
+
+
 ## Limitations
 The risk scoring model is illustrative and is not an official
 cybersecurity standard. It should be validated before any
